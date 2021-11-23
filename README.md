@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dyrickn
-- 👀 I’m interested in learning an applying new tech skills
+- 👀 I’m interested in learning and applying new tech skills
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on small projects to build my portfolio
 - 📫 How to reach me: Here on github or dyricknoor@gmail.com
