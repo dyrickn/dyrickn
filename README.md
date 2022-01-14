@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dyrickn
-- 👀 I’m interested in learning and applying new tech skills
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on small projects to build my portfolio
+- 👀 I’m looking to switch industries
+- 🌱 I’ve been focused on learning Cloud and Automation Technology via Google's Online Offerings
+- 💞️ I’m looking for mentors or people to collaborate on small projects to build my portfolio
 - 📫 How to reach me: Here on github or dyricknoor@gmail.com
 
 <!---
